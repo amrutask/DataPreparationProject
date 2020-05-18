@@ -15,8 +15,8 @@ Kaggle Dataset: https://www.kaggle.com/new-york-city/new-york-city-current-job-p
 
 ## Steps
 
-* 1. Worked on data pre-processing steps like missing value imputation, outlier detection and dimension reduction using correlation analysis to make the dataset ready for machine learning model.
+1. Worked on data pre-processing steps like missing value imputation, outlier detection and dimension reduction using correlation analysis to make the dataset ready for machine learning model.
 
-* 2. Used tableau to visualize the relation between predictor variables and the dependent variables.
+2. Used tableau to visualize the relation between predictor variables and the dependent variables.
 
-* 3. Implemented random forest regression and decision regression tree in python to predict the salary variable.
+3. Implemented random forest regression and decision regression tree in python to predict the salary variable.
